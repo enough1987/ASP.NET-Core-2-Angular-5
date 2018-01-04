@@ -1,0 +1,11 @@
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/bin/Debug/netcoreapp2.0/TheProject.deps.json
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/bin/Debug/netcoreapp2.0/TheProject.runtimeconfig.json
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/bin/Debug/netcoreapp2.0/TheProject.runtimeconfig.dev.json
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/bin/Debug/netcoreapp2.0/TheProject.dll
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/bin/Debug/netcoreapp2.0/TheProject.pdb
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.csprojResolveAssemblyReference.cache
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.csproj.CoreCompileInputs.cache
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.AssemblyInfoInputs.cache
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.AssemblyInfo.cs
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.dll
+/Users/alexander/Documents/HOME_PROJECTS/TheProject/TheProject/obj/Debug/netcoreapp2.0/TheProject.pdb
